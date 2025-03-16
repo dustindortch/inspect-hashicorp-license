@@ -5,7 +5,7 @@ CLI tool to read and inspect Hashicorp licenses.
 ## Usage
 
 ```shell
-licinstect -file <path-to-license-file>
+licinspect -file <path-to-license-file>
 ```
 
 output:
